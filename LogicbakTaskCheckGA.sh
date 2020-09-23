@@ -1,5 +1,5 @@
 #!/bin/bash
-# 2020-05-13 MySQL backup crontabs check Script version 1.0 (Author : xuh)
+# 2020-05-13 MySQL logical backup crontabs check Script version 1.0 (Author : xuh)
 source $HOME/.bash_profile
 cd /tmp
 log=mc${$}.txt
